@@ -1,0 +1,14 @@
+D:\C#\laba 2\task 3\task 3\bin\Debug\net8.0\task 3.exe
+D:\C#\laba 2\task 3\task 3\bin\Debug\net8.0\task 3.deps.json
+D:\C#\laba 2\task 3\task 3\bin\Debug\net8.0\task 3.runtimeconfig.json
+D:\C#\laba 2\task 3\task 3\bin\Debug\net8.0\task 3.dll
+D:\C#\laba 2\task 3\task 3\bin\Debug\net8.0\task 3.pdb
+D:\C#\laba 2\task 3\task 3\obj\Debug\net8.0\task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\laba 2\task 3\task 3\obj\Debug\net8.0\task 3.AssemblyInfoInputs.cache
+D:\C#\laba 2\task 3\task 3\obj\Debug\net8.0\task 3.AssemblyInfo.cs
+D:\C#\laba 2\task 3\task 3\obj\Debug\net8.0\task 3.csproj.CoreCompileInputs.cache
+D:\C#\laba 2\task 3\task 3\obj\Debug\net8.0\task 3.dll
+D:\C#\laba 2\task 3\task 3\obj\Debug\net8.0\refint\task 3.dll
+D:\C#\laba 2\task 3\task 3\obj\Debug\net8.0\task 3.pdb
+D:\C#\laba 2\task 3\task 3\obj\Debug\net8.0\task 3.genruntimeconfig.cache
+D:\C#\laba 2\task 3\task 3\obj\Debug\net8.0\ref\task 3.dll
